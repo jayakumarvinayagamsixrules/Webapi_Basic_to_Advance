@@ -1,0 +1,29 @@
+Basic ASP.NET Core Web API:
+	Creating a Database for Our Project
+	Basic Code Preparations
+	Custom Logging in ASP.NET Core
+	Repository Pattern with Entity Framework Core
+	Using Repository for GET Requests
+	Using Repository for POST, PUT and DELETE Requests
+Advanced ASP.NET Core Web API Concepts:
+	Paging
+	Filtering
+	Searching
+	Sorting
+	Data Shaping
+	HATEOAS
+ASP.NET Core Application Configuration:
+	Basic Configuration Concepts
+	Options Pattern
+	Options Validation
+	Configuration Providers
+	Creating a Custom Configuration Provider
+	Securing Sensitive Data Locally
+	Azure Key Vault- Securing Data in Production
+Consuming ASP.NET Core Web API:
+	Consuming ASP.NET Core Web API With Angular
+	Blazor WebAssembly HttpClient – Consuming a Web API
+	A Few Great Ways to Consume RESTful API in C#
+	Using C# and DalSoft.RestClient to Consume Any REST API
+Hosting ASP.NET Core Web API on different platforms:
+	Hosting ASP.NET Core Web API on Windows with IIS
